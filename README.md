@@ -1,4 +1,4 @@
-# NeuralFont
+# NeuralFont, an 8-bit scaleable Font
 
 This is a font I created myself, from scratch, because I needed a font with an 8-bit look to it.
 
