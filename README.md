@@ -6,7 +6,7 @@ This is a font I created myself, from scratch, because I needed a font with an 8
 
 
 Ascii index string for all current symbols (26 per row as you can see in the image)
-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-+*@$!#%=&()/\[]|;:'"?<>_.,{}~`^
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-+*@$!#%=&()/\\[]|;:'"?<>_.,{}~`^
 
 It is designed to have an 8-bit look but also scale very well. The characters themselves are 7x7 pixels, and the border between them is 1 pixel. Kerning is of course required to make the font look good. I will add a kerning file eventually once I figure out the right format to use. I suggest you just play with it and develop your own kerning pairs, it's not hard, and it's worth it, the font looks very nice when properly formatted.
 
