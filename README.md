@@ -2,7 +2,7 @@
 
 This is a font I created myself, from scratch, because I needed a font with an 8-bit look to it.
 
-![customFont](https://user-images.githubusercontent.com/22092899/192344240-926c999e-4e6e-44b9-aba3-3f331453fd48.png)
+![customFont](https://github.com/neuralsim/NeuralFont/blob/main/neuralFont.png)
 
 
 Ascii index string for all current symbols (26 per row as you can see in the image)
